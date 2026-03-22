@@ -1,0 +1,20 @@
+{
+  "versions": [
+    {
+      "version": "2.0.0",
+      "date": "2026-03-20",
+      "fr": [
+        "Nouvelle interface repensée",
+        "Support des cartes de fidélité",
+        "Partage de cartes entre proches",
+        "Historique des transactions"
+      ],
+      "en": [
+        "Redesigned interface",
+        "Loyalty card support",
+        "Card sharing with family & friends",
+        "Transaction history"
+      ]
+    }
+  ]
+}
